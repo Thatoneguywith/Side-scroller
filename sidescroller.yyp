@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "9b22aa11-2abc-4835-be86-13e17c1b7e9b",
+            "Value": {
+                "id": "e3ea7f10-034b-447b-bce4-50f392f3b06c",
+                "resourcePath": "objects\\oCamera\\oCamera.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9c1b31ca-3216-4c93-b030-97382d52240b",
             "Value": {
                 "id": "248e6496-3d64-4c61-bbeb-a9f2712d378c",
@@ -244,6 +252,14 @@
                 "id": "bd90f66d-5348-4ffd-a8dc-6bd0ff2c1f3e",
                 "resourcePath": "objects\\oDead1\\oDead1.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b6d1afdf-fbe0-48f9-8778-bb2c1a8dd6bc",
+            "Value": {
+                "id": "36c3e955-5826-4599-9895-9d4d1e2f2689",
+                "resourcePath": "rooms\\room1\\room1.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
